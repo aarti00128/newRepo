@@ -1,3 +1,6 @@
-# newRepo
+# New Repository
 
-this is the new repo for the hacktoberfest 2022
+This is the new repo for the hacktoberfest 2022
+
+
+
