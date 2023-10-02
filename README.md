@@ -1,8 +1,6 @@
-# newRepo
+# New Repository
 
-this is the new repo for the hacktoberfest 2022
-
-
+This is the new repo for the hacktoberfest 2022
 
 Tells the current time or date or month or day [e.g. 'tell me time or date or day or month']
 
